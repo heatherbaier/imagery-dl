@@ -1,0 +1,1017 @@
+1 110
+9 110
+84 110
+26 110
+50 110
+91 110
+6 110
+62 110
+0 110
+7 110
+69 110
+100 110
+2 110
+25 110
+81 110
+95 110
+68 110
+99 110
+3 110
+36 110
+27 110
+5 110
+87 110
+88 110
+55 110
+67 110
+106 110
+42 110
+23 110
+82 110
+93 110
+56 110
+74 110
+51 110
+102 110
+43 110
+29 110
+86 110
+98 110
+65 110
+70 110
+45 110
+104 110
+33 110
+14 110
+8 110
+10 110
+31 110
+79 110
+90 110
+63 110
+72 110
+44 110
+105 110
+35 110
+32 110
+83 110
+89 110
+64 110
+75 110
+46 110
+107 110
+38 110
+4 110
+11 110
+22 110
+78 110
+97 110
+58 110
+76 110
+47 110
+109 110
+39 110
+28 110
+80 110
+92 110
+59 110
+71 110
+49 110
+101 110
+40 110
+24 110
+85 110
+96 110
+60 110
+73 110
+53 110
+103 110
+34 110
+30 110
+77 110
+94 110
+61 110
+66 110
+54 110
+108 110
+41 110
+57 110
+52 110
+37 110
+12 110
+48 110
+15 110
+17 110
+20 110
+21 110
+13 110
+16 110
+18 110
+19 110
+[['484001002'], ['484001004'], ['484001005'], ['484001006'], ['484029034'], ['484029036'], ['484030002'], ['484030005'], ['484030006'], ['484030008'], ['484030010'], ['484030012'], ['484030016'], ['484030018'], ['484030019'], ['484030020'], ['484030022'], ['484030023'], ['484030025'], ['484030026'], ['484030028'], ['484030029'], ['484030030'], ['484030032'], ['484030033'], ['484030035'], ['484030036'], ['484030037'], ['484030038'], ['484030040'], ['484030041'], ['484030042'], ['484030043'], ['484030044'], ['484030046'], ['484030047'], ['484030049'], ['484030050'], ['484030051'], ['484030052'], ['484030053'], ['484030054'], ['484030055'], ['484030056'], ['484030057'], ['484030060'], ['484030062'], ['484030063'], ['484030064'], ['484030065'], ['484030066'], ['484030067'], ['484030068'], ['484030069'], ['484030070'], ['484030071'], ['484030072'], ['484030073'], ['484030074'], ['484030075'], ['484030077'], ['484030078'], ['484030079'], ['484030080'], ['484030082'], ['484030083'], ['484030084'], ['484030085'], ['484030086'], ['484030087'], ['484030089'], ['484030090'], ['484030091'], ['484030093'], ['484030094'], ['484030095'], ['484030096'], ['484030097'], ['484030098'], ['484030099'], ['484030100'], ['484030101'], ['484030103'], ['484030104'], ['484030105'], ['484030106'], ['484030107'], ['484030109'], ['484030110'], ['484030111'], ['484030112'], ['484030114'], ['484030115'], ['484030116'], ['484030122'], ['484030123'], ['484030124'], ['484030125'], ['484030126'], ['484030128'], ['484030129'], ['484030130'], ['484030131'], ['484030132'], ['484030133'], ['484030134'], ['484030135'], ['484030136'], ['484030137'], ['484030139']]
+RANK:  6   ALL DATES:  ['484030002']
+RANK:  7   ALL DATES:  ['484030005']
+RANK:  3   ALL DATES:  ['484001006']
+RANK:  4   ALL DATES:  ['484029034']
+RANK:  5   ALL DATES:  ['484029036']
+RANK:  1   ALL DATES:  ['484001004']
+RANK:  9   ALL DATES:  ['484030008']
+RANK:  10   ALL DATES:  ['484030010']
+RANK:  8   ALL DATES:  ['484030006']
+RANK:  2   ALL DATES:  ['484001005']
+RANK:  11   ALL DATES:  ['484030012']
+RANK:  12   ALL DATES:  ['484030016']
+RANK:  13   ALL DATES:  ['484030018']
+RANK:  14   ALL DATES:  ['484030019']
+RANK:  15   ALL DATES:  ['484030020']
+RANK:  16   ALL DATES:  ['484030022']
+RANK:  17   ALL DATES:  ['484030023']
+RANK:  18   ALL DATES:  ['484030025']
+RANK:  19   ALL DATES:  ['484030026']
+RANK:  20   ALL DATES:  ['484030028']
+RANK:  21   ALL DATES:  ['484030029']
+RANK:  22   ALL DATES:  ['484030030']
+RANK:  23   ALL DATES:  ['484030032']
+RANK:  24   ALL DATES:  ['484030033']
+RANK:  25   ALL DATES:  ['484030035']
+RANK:  26   ALL DATES:  ['484030036']
+RANK:  27   ALL DATES:  ['484030037']
+RANK:  28   ALL DATES:  ['484030038']
+RANK:  29   ALL DATES:  ['484030040']
+RANK:  30   ALL DATES:  ['484030041']
+RANK:  31   ALL DATES:  ['484030042']
+RANK:  32   ALL DATES:  ['484030043']
+RANK:  33   ALL DATES:  ['484030044']
+RANK:  34   ALL DATES:  ['484030046']
+RANK:  35   ALL DATES:  ['484030047']
+RANK:  36   ALL DATES:  ['484030049']
+RANK:  37   ALL DATES:  ['484030050']
+RANK:  38   ALL DATES:  ['484030051']
+RANK:  39   ALL DATES:  ['484030052']
+RANK:  40   ALL DATES:  ['484030053']
+RANK:  41   ALL DATES:  ['484030054']
+RANK:  42   ALL DATES:  ['484030055']
+RANK:  43   ALL DATES:  ['484030056']
+RANK:  44   ALL DATES:  ['484030057']
+RANK:  45   ALL DATES:  ['484030060']
+RANK:  46   ALL DATES:  ['484030062']
+RANK:  47   ALL DATES:  ['484030063']
+RANK:  48   ALL DATES:  ['484030064']
+RANK:  49   ALL DATES:  ['484030065']
+RANK:  50   ALL DATES:  ['484030066']
+RANK:  51   ALL DATES:  ['484030067']
+RANK:  52   ALL DATES:  ['484030068']
+RANK:  53   ALL DATES:  ['484030069']
+RANK:  54   ALL DATES:  ['484030070']
+RANK:  55   ALL DATES:  ['484030071']
+RANK:  56   ALL DATES:  ['484030072']
+RANK:  57   ALL DATES:  ['484030073']
+RANK:  58   ALL DATES:  ['484030074']
+RANK:  59   ALL DATES:  ['484030075']
+RANK:  60   ALL DATES:  ['484030077']
+RANK:  61   ALL DATES:  ['484030078']
+RANK:  62   ALL DATES:  ['484030079']
+RANK:  63   ALL DATES:  ['484030080']
+RANK:  64   ALL DATES:  ['484030082']
+RANK:  65   ALL DATES:  ['484030083']
+RANK:  66   ALL DATES:  ['484030084']
+RANK:  67   ALL DATES:  ['484030085']
+RANK:  68   ALL DATES:  ['484030086']
+RANK:  69   ALL DATES:  ['484030087']
+RANK:  70   ALL DATES:  ['484030089']
+RANK:  71   ALL DATES:  ['484030090']
+RANK:  72   ALL DATES:  ['484030091']
+RANK:  73   ALL DATES:  ['484030093']
+RANK:  74   ALL DATES:  ['484030094']
+RANK:  75   ALL DATES:  ['484030095']
+RANK:  76   ALL DATES:  ['484030096']
+RANK:  77   ALL DATES:  ['484030097']
+RANK:  78   ALL DATES:  ['484030098']
+Rank:  29 484030040 1995_6
+RANK:  79   ALL DATES:  ['484030099']
+RANK:  80   ALL DATES:  ['484030100']
+     CNTRY_NAME  ...                                           geometry
+2016     Mexico  ...  POLYGON ((-97.40404 20.48767, -97.40388 20.487...
+
+[1 rows x 6 columns]
+RANK:  81   ALL DATES:  ['484030101']
+RANK:  82   ALL DATES:  ['484030103']
+RANK:  83   ALL DATES:  ['484030104']
+RANK:  84   ALL DATES:  ['484030105']
+RANK:  85   ALL DATES:  ['484030106']
+RANK:  86   ALL DATES:  ['484030107']
+RANK:  87   ALL DATES:  ['484030109']
+RANK:  88   ALL DATES:  ['484030110']
+Rank:  25 484030035 1995_6
+RANK:  89   ALL DATES:  ['484030111']
+RANK:  90   ALL DATES:  ['484030112']
+     CNTRY_NAME  ...                                           geometry
+2011     Mexico  ...  POLYGON ((-97.84429 21.29751, -97.84482 21.297...
+
+[1 rows x 6 columns]
+RANK:  91   ALL DATES:  ['484030114']
+Rank:  24 484030033 1995_6
+RANK:  92   ALL DATES:  ['484030115']
+Rank:  31 484030042 1995_1
+RANK:  93   ALL DATES:  ['484030116']
+     CNTRY_NAME  ...                                           geometry
+2009     Mexico  ...  POLYGON ((-97.21531 20.79657, -97.21453 20.794...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2018     Mexico  ...  POLYGON ((-96.65033 19.90269, -96.65064 19.902...
+
+[1 rows x 6 columns]
+RANK:  94   ALL DATES:  ['484030122']
+RANK:  95   ALL DATES:  ['484030123']
+Rank:  23 484030032 1995_6
+RANK:  96   ALL DATES:  ['484030124']
+Rank:  27 484030037 1995_6
+RANK:  97   ALL DATES:  ['484030125']
+     CNTRY_NAME  ...                                           geometry
+2008     Mexico  ...  POLYGON ((-94.89008 18.55229, -94.89907 18.548...
+
+[1 rows x 6 columns]
+RANK:  98   ALL DATES:  ['484030126']
+     CNTRY_NAME  ...                                           geometry
+2013     Mexico  ...  POLYGON ((-97.67972 20.26293, -97.67989 20.262...
+
+[1 rows x 6 columns]
+RANK:  99   ALL DATES:  ['484030128']
+RANK:  100   ALL DATES:  ['484030129']
+RANK:  101   ALL DATES:  ['484030130']
+RANK:  102   ALL DATES:  ['484030131']
+RANK:  103   ALL DATES:  ['484030132']
+Rank:  30 484030041 1995_6
+RANK:  104   ALL DATES:  ['484030133']
+Rank:  26 484030036 1995_6
+RANK:  105   ALL DATES:  ['484030134']
+     CNTRY_NAME  ...                                           geometry
+2017     Mexico  ...  POLYGON ((-96.90433 18.78609, -96.90483 18.785...
+
+[1 rows x 6 columns]
+Rank:  28 484030038 1995_6
+     CNTRY_NAME  ...                                           geometry
+2012     Mexico  ...  POLYGON ((-96.95961 19.72242, -96.95866 19.721...
+
+[1 rows x 6 columns]
+RANK:  106   ALL DATES:  ['484030135']
+RANK:  107   ALL DATES:  ['484030136']
+Rank:  34 484030046 1995_1
+     CNTRY_NAME  ...                                           geometry
+2014     Mexico  ...  POLYGON ((-97.01419 19.52184, -97.01399 19.521...
+
+[1 rows x 6 columns]
+RANK:  108   ALL DATES:  ['484030137']
+RANK:  0   ALL DATES:  ['484001002']
+RANK:  109   ALL DATES:  ['484030139']
+Rank:  22 484030030 1995_6
+     CNTRY_NAME  ...                                           geometry
+2022     Mexico  ...  POLYGON ((-96.89492 19.34417, -96.89455 19.343...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2006     Mexico  ...  POLYGON ((-97.16665 18.80963, -97.16657 18.809...
+
+[1 rows x 6 columns]
+Rank:  32 484030043 1995_1
+Rank:  1 484001004 1995_1
+     CNTRY_NAME  ...                                           geometry
+2019     Mexico  ...  POLYGON ((-96.62417 19.20387, -96.62254 19.201...
+
+[1 rows x 6 columns]
+  CNTRY_NAME  ...                                           geometry
+3     Mexico  ...  POLYGON ((-102.25320 22.37449, -102.25308 22.3...
+
+[1 rows x 6 columns]
+Rank:  20 484030028 1995_6
+     CNTRY_NAME  ...                                           geometry
+2004     Mexico  ...  MULTIPOLYGON (((-96.10208 19.10020, -96.10219 ...
+
+[1 rows x 6 columns]
+Rank:  36 484030049 1995_1
+     CNTRY_NAME  ...                                           geometry
+2025     Mexico  ...  POLYGON ((-96.31010 18.97924, -96.30867 18.978...
+
+[1 rows x 6 columns]
+Rank:  14 484030019 1995_6
+     CNTRY_NAME  ...                                           geometry
+1995     Mexico  ...  POLYGON ((-97.04807 18.58144, -97.04831 18.581...
+
+[1 rows x 6 columns]
+Rank:  51 484030067 1995_1
+Rank:  16 484030022 1995_6
+Rank:  18 484030025 1995_6
+Rank:  42 484030055 1995_1
+Rank:  12 484030016 1995_6
+     CNTRY_NAME  ...                                           geometry
+1998     Mexico  ...  POLYGON ((-97.09198 18.98383, -97.09196 18.983...
+
+[1 rows x 6 columns]
+Rank:  9 484030008 1995_6
+     CNTRY_NAME  ...                                           geometry
+2001     Mexico  ...  MULTIPOLYGON (((-97.14784 19.44785, -97.14754 ...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2043     Mexico  ...  POLYGON ((-97.67239 20.24359, -97.67235 20.243...
+
+[1 rows x 6 columns]
+Rank:  4 484029034 1995_6
+     CNTRY_NAME  ...                                           geometry
+2031     Mexico  ...  MULTIPOLYGON (((-98.25347 21.22955, -98.25226 ...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1992     Mexico  ...  POLYGON ((-96.22402 19.26459, -96.22403 19.264...
+
+[1 rows x 6 columns]
+Rank:  40 484030053 1995_1
+     CNTRY_NAME  ...                                           geometry
+1984     Mexico  ...  POLYGON ((-97.06646 19.11289, -97.06652 19.112...
+
+[1 rows x 6 columns]
+Rank:  3 484001006 1995_7
+Rank:  38 484030051 1995_1
+     CNTRY_NAME  ...                                           geometry
+1967     Mexico  ...  POLYGON ((-97.99421 19.39855, -97.99422 19.398...
+
+[1 rows x 6 columns]
+484030035  has  3  images available between  1995-6-1 and 1995-6-30
+     CNTRY_NAME  ...                                           geometry
+2029     Mexico  ...  POLYGON ((-96.68892 18.85118, -96.68893 18.850...
+
+[1 rows x 6 columns]
+  CNTRY_NAME  ...                                           geometry
+5     Mexico  ...  POLYGON ((-102.22684 22.37393, -102.22661 22.3...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2027     Mexico  ...  POLYGON ((-97.64659 20.40869, -97.64689 20.408...
+
+[1 rows x 6 columns]
+Rank:  2 484001005 1995_2
+Rank:  33 484030044 1995_1
+484030040  has  2  images available between  1995-6-1 and 1995-6-30
+Rank:  35 484030047 1995_1
+Rank:  10 484030010 1995_6
+Rank:  17 484030023 1995_6
+  CNTRY_NAME  ...                                           geometry
+4     Mexico  ...  POLYGON ((-102.33476 22.05047, -102.33348 22.0...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2020     Mexico  ...  POLYGON ((-96.93698 19.01077, -96.93691 19.010...
+
+[1 rows x 6 columns]
+Rank:  6 484030002 1995_6
+Rank:  11 484030012 1995_6
+Rank:  5 484029036 1995_6
+Rank:  19 484030026 1995_6
+Rank:  37 484030050 1995_1
+     CNTRY_NAME  ...                                           geometry
+2023     Mexico  ...  POLYGON ((-96.99973 19.08609, -96.99970 19.085...
+
+[1 rows x 6 columns]
+Rank:  7 484030005 1995_6
+Rank:  8 484030006 1995_6
+Rank:  13 484030018 1995_6
+     CNTRY_NAME  ...                                           geometry
+1986     Mexico  ...  POLYGON ((-96.99410 19.78500, -96.99396 19.784...
+
+[1 rows x 6 columns]
+Rank:  41 484030054 1995_1
+     CNTRY_NAME  ...                                           geometry
+1999     Mexico  ...  POLYGON ((-96.98794 19.98125, -96.98733 19.981...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1978     Mexico  ...  POLYGON ((-96.83449 19.71457, -96.83401 19.714...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1988     Mexico  ...  POLYGON ((-95.59401 18.35495, -95.59441 18.354...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1969     Mexico  ...  POLYGON ((-97.91507 19.17334, -97.91507 19.173...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1981     Mexico  ...  POLYGON ((-95.75826 18.55504, -95.75872 18.554...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2002     Mexico  ...  POLYGON ((-96.89720 19.58097, -96.89738 19.580...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1994     Mexico  ...  POLYGON ((-97.32538 18.76652, -97.32558 18.766...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1982     Mexico  ...  POLYGON ((-97.20652 18.78044, -97.20653 18.780...
+
+[1 rows x 6 columns]
+Rank:  21 484030029 1995_6
+     CNTRY_NAME  ...                                           geometry
+2026     Mexico  ...  POLYGON ((-97.51460 20.17004, -97.51479 20.169...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2030     Mexico  ...  POLYGON ((-95.76649 18.31475, -95.76651 18.314...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2005     Mexico  ...  POLYGON ((-97.14419 19.16391, -97.14401 19.163...
+
+[1 rows x 6 columns]
+Rank:  45 484030060 1995_1
+Rank:  15 484030020 1995_6
+Rank:  43 484030056 1995_1
+     CNTRY_NAME  ...                                           geometry
+1996     Mexico  ...  POLYGON ((-97.06965 18.70321, -97.06918 18.702...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2036     Mexico  ...  POLYGON ((-97.59613 21.41315, -97.59632 21.413...
+
+[1 rows x 6 columns]
+Rank:  39 484030052 1995_1
+Rank:  49 484030065 1995_1
+     CNTRY_NAME  ...                                           geometry
+2032     Mexico  ...  MULTIPOLYGON (((-98.35877 21.18044, -98.35872 ...
+
+[1 rows x 6 columns]
+484030037  has  2  images available between  1995-6-1 and 1995-6-30
+Rank:  44 484030057 1995_1
+     CNTRY_NAME  ...                                           geometry
+2028     Mexico  ...  POLYGON ((-96.83769 18.78589, -96.83759 18.785...
+
+[1 rows x 6 columns]
+484030042  has  3  images available between  1995-1-1 and 1995-1-31
+     CNTRY_NAME  ...                                           geometry
+2041     Mexico  ...  POLYGON ((-96.76780 19.56531, -96.76782 19.565...
+
+[1 rows x 6 columns]
+484030033  has  2  images available between  1995-6-1 and 1995-6-30
+484030032  has  1  images available between  1995-6-1 and 1995-6-30
+     CNTRY_NAME  ...                                           geometry
+2033     Mexico  ...  POLYGON ((-96.83602 19.81779, -96.83499 19.817...
+
+[1 rows x 6 columns]
+Rank:  52 484030068 1995_1
+Rank:  46 484030062 1995_1
+     CNTRY_NAME  ...                                           geometry
+2038     Mexico  ...  POLYGON ((-97.02772 19.03349, -97.02790 19.033...
+
+[1 rows x 6 columns]
+484030036  has  2  images available between  1995-6-1 and 1995-6-30
+     CNTRY_NAME  ...                                           geometry
+2044     Mexico  ...  POLYGON ((-97.00774 18.98456, -97.00763 18.984...
+
+[1 rows x 6 columns]
+Rank:  54 484030070 1995_1
+Rank:  60 484030077 1995_1
+Rank:  75 484030095 1995_1
+484030046  has  4  images available between  1995-1-1 and 1995-1-31
+Rank:  50 484030066 1995_1
+     CNTRY_NAME  ...                                           geometry
+2046     Mexico  ...  POLYGON ((-97.02956 19.21802, -97.03015 19.217...
+
+[1 rows x 6 columns]
+Rank:  69 484030087 1995_1
+484030041  has  4  images available between  1995-6-1 and 1995-6-30
+Rank:  47 484030063 1995_1
+Rank:  64 484030082 1995_1
+     CNTRY_NAME  ...                                           geometry
+2053     Mexico  ...  POLYGON ((-98.06368 21.34857, -98.06315 21.348...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2071     Mexico  ...  POLYGON ((-95.43746 18.71513, -95.43706 18.710...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2042     Mexico  ...  POLYGON ((-97.51914 20.36715, -97.51914 20.366...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2063     Mexico  ...  POLYGON ((-96.73713 19.37239, -96.73713 19.372...
+
+[1 rows x 6 columns]
+Rank:  53 484030069 1995_1
+     CNTRY_NAME  ...                                           geometry
+2039     Mexico  ...  POLYGON ((-98.03805 21.66749, -98.03705 21.667...
+
+[1 rows x 6 columns]
+484030030  has  2  images available between  1995-6-1 and 1995-6-30
+     CNTRY_NAME  ...                                           geometry
+2045     Mexico  ...  POLYGON ((-97.14173 20.37614, -97.14171 20.376...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2058     Mexico  ...  POLYGON ((-97.91592 20.87485, -97.91567 20.874...
+
+[1 rows x 6 columns]
+Rank:  61 484030078 1995_1
+Rank:  48 484030064 1995_1
+Rank:  57 484030073 1995_1
+     CNTRY_NAME  ...                                           geometry
+2040     Mexico  ...  POLYGON ((-97.60288 20.19474, -97.60206 20.194...
+
+[1 rows x 6 columns]
+Rank:  62 484030079 1995_1
+     CNTRY_NAME  ...                                           geometry
+2054     Mexico  ...  POLYGON ((-97.14784 19.44785, -97.14784 19.447...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2049     Mexico  ...  POLYGON ((-97.11018 18.83202, -97.11015 18.832...
+
+[1 rows x 6 columns]
+Rank:  59 484030075 1995_1
+Rank:  78 484030098 1995_1
+Rank:  67 484030085 1995_1
+484001004  has  6  images available between  1995-1-1 and 1995-1-31
+Rank:  65 484030083 1995_1
+     CNTRY_NAME  ...                                           geometry
+2055     Mexico  ...  POLYGON ((-96.88971 19.09108, -96.88973 19.091...
+
+[1 rows x 6 columns]
+Rank:  71 484030090 1995_1
+Rank:  73 484030093 1995_1
+     CNTRY_NAME  ...                                           geometry
+2051     Mexico  ...  POLYGON ((-98.34737 20.86306, -98.34704 20.863...
+
+[1 rows x 6 columns]
+E:  'MultiPolygon' object has no attribute 'exterior'
+'MultiPolygon' object has no attribute 'exterior'
+E:  'MultiPolygon' object has no attribute 'exterior'
+'MultiPolygon' object has no attribute 'exterior'
+Rank:  58 484030074 1995_1
+     CNTRY_NAME  ...                                           geometry
+2061     Mexico  ...  POLYGON ((-97.22278 19.92262, -97.22296 19.922...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2074     Mexico  ...  POLYGON ((-96.26356 19.13327, -96.26297 19.132...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2069     Mexico  ...  POLYGON ((-96.55778 19.82844, -96.55780 19.828...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2066     Mexico  ...  POLYGON ((-97.10587 19.52147, -97.10528 19.521...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2059     Mexico  ...  POLYGON ((-95.77821 18.46678, -95.77664 18.466...
+
+[1 rows x 6 columns]
+Rank:  56 484030072 1995_1
+     CNTRY_NAME  ...                                           geometry
+2050     Mexico  ...  POLYGON ((-95.89311 18.62236, -95.89313 18.621...
+
+[1 rows x 6 columns]
+Rank:  0 484001002 1995_1
+     CNTRY_NAME  ...                                           geometry
+2048     Mexico  ...  POLYGON ((-94.99189 18.12740, -94.99193 18.127...
+
+[1 rows x 6 columns]
+Rank:  63 484030080 1995_1
+E:  'MultiPolygon' object has no attribute 'exterior'
+'MultiPolygon' object has no attribute 'exterior'
+  CNTRY_NAME  ...                                           geometry
+1     Mexico  ...  POLYGON ((-101.99941 22.21951, -101.99941 22.2...
+
+[1 rows x 6 columns]
+Rank:  93 484030116 1995_1
+     CNTRY_NAME  ...                                           geometry
+2056     Mexico  ...  POLYGON ((-97.11076 18.87135, -97.11097 18.871...
+
+[1 rows x 6 columns]
+Rank:  66 484030084 1995_1
+Rank:  68 484030086 1995_1
+Rank:  55 484030071 1995_1
+     CNTRY_NAME  ...                                           geometry
+2092     Mexico  ...  POLYGON ((-96.00695 18.18476, -96.00745 18.183...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2060     Mexico  ...  POLYGON ((-97.04956 18.94680, -97.04855 18.946...
+
+[1 rows x 6 columns]
+484030019  has  2  images available between  1995-6-1 and 1995-6-30
+     CNTRY_NAME  ...                                           geometry
+2062     Mexico  ...  POLYGON ((-96.80182 19.57555, -96.80181 19.575...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2047     Mexico  ...  POLYGON ((-98.42583 20.71526, -98.42517 20.714...
+
+[1 rows x 6 columns]
+484030038  has  6  images available between  1995-6-1 and 1995-6-30
+484030049  has  2  images available between  1995-1-1 and 1995-1-31
+Rank:  72 484030091 1995_1
+Rank:  70 484030089 1995_1
+484030022  has  2  images available between  1995-6-1 and 1995-6-30
+     CNTRY_NAME  ...                                           geometry
+2067     Mexico  ...  POLYGON ((-96.91712 19.63513, -96.91643 19.635...
+
+[1 rows x 6 columns]
+484030012  has  2  images available between  1995-6-1 and 1995-6-30
+     CNTRY_NAME  ...                                           geometry
+2065     Mexico  ...  POLYGON ((-96.26438 19.06415, -96.26426 19.064...
+
+[1 rows x 6 columns]
+Rank:  74 484030094 1995_1
+484030043  has  4  images available between  1995-1-1 and 1995-1-31
+Rank:  76 484030096 1995_1
+Rank:  100 484030129 1995_1
+     CNTRY_NAME  ...                                           geometry
+2070     Mexico  ...  POLYGON ((-96.83449 19.71457, -96.83489 19.714...
+
+[1 rows x 6 columns]
+484030053  has  4  images available between  1995-1-1 and 1995-1-31
+     CNTRY_NAME  ...                                           geometry
+2072     Mexico  ...  POLYGON ((-97.02209 18.76263, -97.02215 18.762...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2105     Mexico  ...  POLYGON ((-97.06833 19.68503, -97.06786 19.684...
+
+[1 rows x 6 columns]
+484029034  has  2  images available between  1995-6-1 and 1995-6-30
+Rank:  82 484030103 1995_1
+Rank:  80 484030100 1995_1
+484030005  has  2  images available between  1995-6-1 and 1995-6-30
+     CNTRY_NAME  ...                                           geometry
+2079     Mexico  ...  POLYGON ((-96.24378 19.14443, -96.24290 19.142...
+
+[1 rows x 6 columns]
+484030016  has  2  images available between  1995-6-1 and 1995-6-30
+484030008  has  2  images available between  1995-6-1 and 1995-6-30
+Rank:  84 484030105 1995_1
+Rank:  86 484030107 1995_1
+     CNTRY_NAME  ...                                           geometry
+2076     Mexico  ...  POLYGON ((-96.92891 20.29420, -96.92868 20.294...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2081     Mexico  ...  POLYGON ((-97.11129 19.74009, -97.11050 19.740...
+
+[1 rows x 6 columns]
+Rank:  95 484030123 1995_1
+     CNTRY_NAME  ...                                           geometry
+2083     Mexico  ...  POLYGON ((-96.97443 18.55345, -96.97465 18.553...
+
+[1 rows x 6 columns]
+484030002  has  2  images available between  1995-6-1 and 1995-6-30
+484030051  has  2  images available between  1995-1-1 and 1995-1-31
+Rank:  77 484030097 1995_1
+     CNTRY_NAME  ...                                           geometry
+2099     Mexico  ...  POLYGON ((-96.33939 19.24185, -96.33891 19.236...
+
+[1 rows x 6 columns]
+Rank:  83 484030104 1995_1
+Rank:  81 484030101 1995_1
+Rank:  102 484030131 1995_1
+484030067  has  2  images available between  1995-1-1 and 1995-1-31
+484001005  has  4  images available between  1995-2-1 and 1995-2-28
+484001006  has  6  images available between  1995-7-1 and 1995-7-31
+Rank:  106 484030135 1995_1
+484030006  has  2  images available between  1995-6-1 and 1995-6-30
+Rank:  91 484030114 1995_1
+484029036  has  2  images available between  1995-6-1 and 1995-6-30
+     CNTRY_NAME  ...                                           geometry
+2073     Mexico  ...  POLYGON ((-97.23953 18.91896, -97.23939 18.918...
+
+[1 rows x 6 columns]
+Rank:  89 484030111 1995_1
+     CNTRY_NAME  ...                                           geometry
+2080     Mexico  ...  POLYGON ((-96.87630 19.77056, -96.87610 19.770...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2077     Mexico  ...  POLYGON ((-97.61149 20.22032, -97.61129 20.219...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2111     Mexico  ...  POLYGON ((-97.15004 18.85827, -97.15002 18.857...
+
+[1 rows x 6 columns]
+Rank:  79 484030099 1995_1
+     CNTRY_NAME  ...                                           geometry
+2107     Mexico  ...  POLYGON ((-96.37709 19.40072, -96.37709 19.400...
+
+[1 rows x 6 columns]
+484030054  has  4  images available between  1995-1-1 and 1995-1-31
+     CNTRY_NAME  ...                                           geometry
+2090     Mexico  ...  POLYGON ((-96.72627 18.74424, -96.72544 18.744...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2087     Mexico  ...  POLYGON ((-96.70316 20.15849, -96.70552 20.156...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2075     Mexico  ...  POLYGON ((-97.10630 18.91078, -97.10551 18.910...
+
+[1 rows x 6 columns]
+Rank:  97 484030125 1995_1
+484030095  has  2  images available between  1995-1-1 and 1995-1-31
+Rank:  87 484030109 1995_1
+Rank:  108 484030137 1995_1
+Rank:  98 484030126 1995_1
+Rank:  85 484030106 1995_1
+484030044  has  4  images available between  1995-1-1 and 1995-1-31
+     CNTRY_NAME  ...                                           geometry
+2101     Mexico  ...  POLYGON ((-97.23804 19.63680, -97.23724 19.636...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2113     Mexico  ...  POLYGON ((-97.07053 18.77741, -97.07072 18.777...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2085     Mexico  ...  POLYGON ((-96.86440 19.69003, -96.86428 19.689...
+
+[1 rows x 6 columns]
+484030060  has  2  images available between  1995-1-1 and 1995-1-31
+     CNTRY_NAME  ...                                           geometry
+2082     Mexico  ...  POLYGON ((-96.88381 20.13552, -96.88377 20.135...
+
+[1 rows x 6 columns]
+Rank:  104 484030133 1995_1
+     CNTRY_NAME  ...                                           geometry
+2102     Mexico  ...  POLYGON ((-98.38882 21.41394, -98.38844 21.413...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2109     Mexico  ...  POLYGON ((-96.96842 19.59668, -96.96858 19.596...
+
+[1 rows x 6 columns]
+484030047  has  2  images available between  1995-1-1 and 1995-1-31
+Rank:  88 484030110 1995_1
+484030026  has  2  images available between  1995-6-1 and 1995-6-30
+Rank:  92 484030115 1995_1
+484030010  has  2  images available between  1995-6-1 and 1995-6-30
+     CNTRY_NAME  ...                                           geometry
+2086     Mexico  ...  POLYGON ((-96.92638 18.80222, -96.92622 18.801...
+
+[1 rows x 6 columns]
+Rank:  90 484030112 1995_1
+     CNTRY_NAME  ...                                           geometry
+2091     Mexico  ...  POLYGON ((-97.10470 18.88339, -97.10463 18.883...
+
+[1 rows x 6 columns]
+Rank:  105 484030134 1995_1
+Rank:  103 484030132 1995_1
+     CNTRY_NAME  ...                                           geometry
+2088     Mexico  ...  POLYGON ((-97.22054 18.91197, -97.22004 18.911...
+
+[1 rows x 6 columns]
+484030050  has  2  images available between  1995-1-1 and 1995-1-31
+Rank:  109 484030139 1995_1
+484030062  has  2  images available between  1995-1-1 and 1995-1-31
+Rank:  94 484030122 1995_1
+     CNTRY_NAME  ...                                           geometry
+2110     Mexico  ...  POLYGON ((-97.01392 18.70322, -97.01398 18.702...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2108     Mexico  ...  POLYGON ((-97.08713 18.83288, -97.08711 18.832...
+
+[1 rows x 6 columns]
+Rank:  101 484030130 1995_1
+Rank:  99 484030128 1995_1
+484030023  has  2  images available between  1995-6-1 and 1995-6-30
+     CNTRY_NAME  ...                                           geometry
+2098     Mexico  ...  POLYGON ((-96.67138 19.04257, -96.67065 19.042...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2115     Mexico  ...  POLYGON ((-95.32430 18.57297, -95.32375 18.572...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2106     Mexico  ...  MULTIPOLYGON (((-97.78778 22.26154, -97.78460 ...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2104     Mexico  ...  POLYGON ((-97.40404 20.48767, -97.40432 20.487...
+
+[1 rows x 6 columns]
+Rank:  96 484030124 1995_1
+Rank:  107 484030136 1995_1
+E:  'MultiPolygon' object has no attribute 'exterior'
+'MultiPolygon' object has no attribute 'exterior'
+Image  0  of  1 ---- Month: May
+     CNTRY_NAME  ...                                           geometry
+2112     Mexico  ...  POLYGON ((-95.46810 18.60387, -95.46776 18.600...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+2100     Mexico  ...  POLYGON ((-97.10384 18.98986, -97.10431 18.989...
+
+[1 rows x 6 columns]
+484030029  has  2  images available between  1995-6-1 and 1995-6-30
+484030064  has  2  images available between  1995-1-1 and 1995-1-31
+484030080  has  2  images available between  1995-1-1 and 1995-1-31
+484030073  has  2  images available between  1995-1-1 and 1995-1-31
+484030018  has  2  images available between  1995-6-1 and 1995-6-30
+484030070  has  4  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+484030020  has  2  images available between  1995-6-1 and 1995-6-30
+484030069  has  2  images available between  1995-1-1 and 1995-1-31
+484030087  has  6  images available between  1995-1-1 and 1995-1-31
+484030098  has  2  images available between  1995-1-1 and 1995-1-31
+484001002  has  4  images available between  1995-1-1 and 1995-1-31
+484030082  has  6  images available between  1995-1-1 and 1995-1-31
+484030077  has  2  images available between  1995-1-1 and 1995-1-31
+484030079  has  4  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+484030057  has  5  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+484030083  has  2  images available between  1995-1-1 and 1995-1-31
+484030094  has  2  images available between  1995-1-1 and 1995-1-31
+484030085  has  2  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+484030068  has  4  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+484030086  has  4  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+484030089  has  2  images available between  1995-1-1 and 1995-1-31
+484030129  has  2  images available between  1995-1-1 and 1995-1-31
+484030107  has  4  images available between  1995-1-1 and 1995-1-31
+484030066  has  2  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+484030101  has  2  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+484030099  has  2  images available between  1995-1-1 and 1995-1-31
+E:  'MultiPolygon' object has no attribute 'exterior'
+'MultiPolygon' object has no attribute 'exterior'
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+484030071  has  2  images available between  1995-1-1 and 1995-1-31
+484030100  has  2  images available between  1995-1-1 and 1995-1-31
+484030104  has  2  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+484030103  has  2  images available between  1995-1-1 and 1995-1-31
+484030112  has  2  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+484030065  has  7  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+484030134  has  2  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+484030122  has  4  images available between  1995-1-1 and 1995-1-31
+484030137  has  2  images available between  1995-1-1 and 1995-1-31
+484030110  has  4  images available between  1995-1-1 and 1995-1-31
+484030078  has  4  images available between  1995-1-1 and 1995-1-31
+484030131  has  6  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+484030096  has  2  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+484030063  has  2  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+484030084  has  2  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+484030105  has  2  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+484030126  has  2  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+484030135  has  2  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+Image  0  of  1 ---- Month: May
+484030115  has  2  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+484030090  has  4  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+484030075  has  4  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+484030093  has  3  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+484030114  has  4  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+484030052  has  4  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+484030116  has  4  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+484030091  has  2  images available between  1995-1-1 and 1995-1-31
+484030109  has  5  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+484030124  has  2  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Failure with message:  File is not a zip file
+484030111  has  2  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+484030125  has  4  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+484030133  has  2  images available between  1995-1-1 and 1995-1-31
+484030072  has  5  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+484030139  has  5  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+484030136  has  2  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+484030123  has  4  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+484030106  has  2  images available between  1995-1-1 and 1995-1-31
+484030074  has  2  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+484030132  has  2  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+484030097  has  2  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+484030128  has  2  images available between  1995-1-1 and 1995-1-31
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May

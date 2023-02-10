@@ -1,0 +1,1168 @@
+112 120
+109 120
+108 120
+115 120
+117 120
+111 120
+110 120
+116 120
+119 120
+113 120
+118 120
+85 120
+86 120
+89 120
+94 120
+91 120
+93 120
+95 120
+88 120
+90 120
+84 120
+92 120
+41 120
+43 120
+40 120
+42 120
+46 120
+47 120
+39 120
+37 120
+38 120
+44 120
+36 120
+59 120
+50 120
+51 120
+56 120
+58 120
+53 120
+48 120
+54 120
+49 120
+57 120
+55 120
+52 120
+28 120
+32 120
+25 120
+35 120
+29 120
+31 120
+24 120
+26 120
+27 120
+30 120
+33 120
+76 120
+73 120
+75 120
+77 120
+83 120
+79 120
+82 120
+78 120
+81 120
+74 120
+80 120
+72 120
+101 120
+102 120
+103 120
+97 120
+99 120
+106 120
+104 120
+107 120
+105 120
+100 120
+98 120
+96 120
+67 120
+71 120
+65 120
+61 120
+69 120
+70 120
+60 120
+62 120
+63 120
+66 120
+64 120
+68 120
+1 120
+3 120
+8 120
+0 120
+6 120
+7 120
+9 120
+2 120
+11 120
+4 120
+5 120
+10 120
+[['484001007'], ['484001008'], ['484005003'], ['484005010'], ['484005016'], ['484007035'], ['484007055'], ['484007087'], ['484007101'], ['484020012'], ['484020030'], ['484020059'], ['484020061'], ['484020070'], ['484020071'], ['484020074'], ['484020075'], ['484020079'], ['484020085'], ['484020090'], ['484020095'], ['484020113'], ['484020114'], ['484020117'], ['484020124'], ['484020126'], ['484020130'], ['484020146'], ['484020148'], ['484020153'], ['484020154'], ['484020159'], ['484020167'], ['484020168'], ['484020170'], ['484020201'], ['484020208'], ['484020210'], ['484020224'], ['484020235'], ['484020247'], ['484020252'], ['484020253'], ['484020262'], ['484020278'], ['484020281'], ['484020284'], ['484020288'], ['484020290'], ['484020304'], ['484020305'], ['484020307'], ['484020311'], ['484020313'], ['484020317'], ['484020318'], ['484020323'], ['484020343'], ['484020346'], ['484020350'], ['484020352'], ['484020360'], ['484020361'], ['484020365'], ['484020366'], ['484020383'], ['484020390'], ['484020400'], ['484020401'], ['484020413'], ['484020420'], ['484020423'], ['484020427'], ['484020438'], ['484020440'], ['484020452'], ['484020483'], ['484020493'], ['484020505'], ['484020507'], ['484020510'], ['484020530'], ['484020531'], ['484020535'], ['484020559'], ['484026005'], ['484028020'], ['484028025'], ['484028028'], ['484028031'], ['484028034'], ['484028036'], ['484029001'], ['484029002'], ['484029003'], ['484029004'], ['484029005'], ['484029006'], ['484029007'], ['484029008'], ['484029009'], ['484029010'], ['484029011'], ['484029012'], ['484029013'], ['484029014'], ['484029015'], ['484029016'], ['484029017'], ['484029018'], ['484029019'], ['484029020'], ['484029021'], ['484029022'], ['484029023'], ['484029024'], ['484029025'], ['484029026'], ['484029027'], ['484029028']]
+13 120
+15 120
+23 120
+14 120
+16 120
+18 120
+20 120
+21 120
+17 120
+22 120
+19 120
+12 120
+RANK:  1   ALL DATES:  ['484001008']
+RANK:  3   ALL DATES:  ['484005010']
+RANK:  7   ALL DATES:  ['484007087']
+RANK:  5   ALL DATES:  ['484007035']
+RANK:  2   ALL DATES:  ['484005003']
+RANK:  8   ALL DATES:  ['484007101']
+RANK:  4   ALL DATES:  ['484005016']
+RANK:  11   ALL DATES:  ['484020059']
+RANK:  10   ALL DATES:  ['484020030']
+RANK:  9   ALL DATES:  ['484020012']
+RANK:  6   ALL DATES:  ['484007055']
+RANK:  12   ALL DATES:  ['484020061']
+RANK:  13   ALL DATES:  ['484020070']
+RANK:  14   ALL DATES:  ['484020071']
+RANK:  15   ALL DATES:  ['484020074']
+RANK:  16   ALL DATES:  ['484020075']
+RANK:  17   ALL DATES:  ['484020079']
+RANK:  18   ALL DATES:  ['484020085']
+RANK:  19   ALL DATES:  ['484020090']
+RANK:  20   ALL DATES:  ['484020095']
+RANK:  21   ALL DATES:  ['484020113']
+RANK:  22   ALL DATES:  ['484020114']
+RANK:  23   ALL DATES:  ['484020117']
+RANK:  24   ALL DATES:  ['484020124']
+RANK:  25   ALL DATES:  ['484020126']
+RANK:  26   ALL DATES:  ['484020130']
+RANK:  27   ALL DATES:  ['484020146']
+RANK:  28   ALL DATES:  ['484020148']
+RANK:  29   ALL DATES:  ['484020153']
+RANK:  30   ALL DATES:  ['484020154']
+RANK:  31   ALL DATES:  ['484020159']
+RANK:  32   ALL DATES:  ['484020167']
+RANK:  33   ALL DATES:  ['484020168']
+Rank:  2 484005003 1995_5
+   CNTRY_NAME  ...                                           geometry
+21     Mexico  ...  POLYGON ((-100.80966 28.38095, -100.80582 28.3...
+
+[1 rows x 6 columns]
+Rank:  4 484005016 1996_3
+Rank:  10 484020030 1996_7
+   CNTRY_NAME  ...                                           geometry
+34     Mexico  ...  POLYGON ((-101.71168 27.03443, -101.71272 27.0...
+
+[1 rows x 6 columns]
+    CNTRY_NAME  ...                                           geometry
+964     Mexico  ...  POLYGON ((-94.96860 16.51535, -94.97175 16.509...
+
+[1 rows x 6 columns]
+Rank:  6 484007055 1998_10
+Rank:  29 484020153 1995_11
+    CNTRY_NAME  ...                                           geometry
+120     Mexico  ...  POLYGON ((-92.18161 14.84741, -92.18162 14.847...
+
+[1 rows x 6 columns]
+Rank:  8 484007101 1998_10
+Rank:  24 484020124 1996_7
+     CNTRY_NAME  ...                                           geometry
+1087     Mexico  ...  POLYGON ((-96.95569 16.02983, -96.94749 16.026...
+
+[1 rows x 6 columns]
+    CNTRY_NAME  ...                                           geometry
+166     Mexico  ...  POLYGON ((-92.18805 14.99309, -92.18360 14.993...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1058     Mexico  ...  POLYGON ((-95.11980 16.44084, -95.11979 16.433...
+
+[1 rows x 6 columns]
+Rank:  11 484020059 1995_11
+Rank:  12 484020061 1995_11
+Rank:  9 484020012 1995_11
+Rank:  26 484020130 1996_7
+    CNTRY_NAME  ...                                           geometry
+995     Mexico  ...  POLYGON ((-96.63827 16.32962, -96.63865 16.330...
+
+[1 rows x 6 columns]
+Rank:  14 484020071 1995_11
+Rank:  16 484020075 1996_7
+Rank:  13 484020070 1995_11
+    CNTRY_NAME  ...                                           geometry
+993     Mexico  ...  POLYGON ((-96.67656 16.48216, -96.67538 16.481...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1064     Mexico  ...  POLYGON ((-94.64166 16.43519, -94.63845 16.429...
+
+[1 rows x 6 columns]
+Rank:  15 484020074 1995_11
+    CNTRY_NAME  ...                                           geometry
+946     Mexico  ...  POLYGON ((-96.46848 15.97003, -96.46884 15.969...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1009     Mexico  ...  POLYGON ((-94.41101 16.35329, -94.41114 16.353...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1005     Mexico  ...  POLYGON ((-96.42160 15.96823, -96.42126 15.967...
+
+[1 rows x 6 columns]
+Rank:  32 484020167 1995_11
+     CNTRY_NAME  ...                                           geometry
+1004     Mexico  ...  POLYGON ((-97.92303 16.42567, -97.92398 16.395...
+
+[1 rows x 6 columns]
+Rank:  18 484020085 1995_11
+     CNTRY_NAME  ...                                           geometry
+1008     Mexico  ...  POLYGON ((-96.21011 16.27922, -96.20981 16.276...
+
+[1 rows x 6 columns]
+Rank:  28 484020148 1995_11
+Rank:  17 484020079 1996_7
+     CNTRY_NAME  ...                                           geometry
+1101     Mexico  ...  POLYGON ((-96.46435 16.24107, -96.46582 16.238...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1019     Mexico  ...  POLYGON ((-96.52490 16.01382, -96.52449 16.013...
+
+[1 rows x 6 columns]
+114 120
+Rank:  19 484020090 1995_4
+Rank:  25 484020126 1995_11
+Rank:  30 484020154 1995_11
+     CNTRY_NAME  ...                                           geometry
+1082     Mexico  ...  POLYGON ((-96.19712 16.11614, -96.19389 16.116...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1013     Mexico  ...  POLYGON ((-95.16521 16.24979, -95.16502 16.249...
+
+[1 rows x 6 columns]
+Rank:  20 484020095 1995_11
+Rank:  22 484020114 1995_11
+Rank:  21 484020113 1995_11
+     CNTRY_NAME  ...                                           geometry
+1088     Mexico  ...  POLYGON ((-96.43634 16.31983, -96.43637 16.319...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1024     Mexico  ...  POLYGON ((-97.86074 16.37919, -97.86038 16.378...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1060     Mexico  ...  POLYGON ((-96.41130 16.37692, -96.41142 16.376...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1029     Mexico  ...  POLYGON ((-96.53488 16.25137, -96.53100 16.244...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1048     Mexico  ...  POLYGON ((-96.18193 17.25852, -96.18186 17.258...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1047     Mexico  ...  POLYGON ((-96.74877 15.99326, -96.75190 15.989...
+
+[1 rows x 6 columns]
+87 120
+Rank:  27 484020146 1995_11
+Rank:  23 484020117 1995_11
+     CNTRY_NAME  ...                                           geometry
+1080     Mexico  ...  POLYGON ((-96.35257 16.32960, -96.36091 16.331...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1051     Mexico  ...  POLYGON ((-96.70806 16.02625, -96.69574 16.005...
+
+[1 rows x 6 columns]
+Rank:  31 484020159 1995_11
+Rank:  33 484020168 1995_11
+     CNTRY_NAME  ...                                           geometry
+1102     Mexico  ...  POLYGON ((-98.22033 16.40573, -98.21942 16.405...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1093     Mexico  ...  POLYGON ((-96.86830 16.29071, -96.86769 16.290...
+
+[1 rows x 6 columns]
+Rank:  7 484007087 1998_10
+Rank:  5 484007035 1998_10
+    CNTRY_NAME  ...                                           geometry
+152     Mexico  ...  POLYGON ((-92.15402 14.73093, -92.15374 14.730...
+
+[1 rows x 6 columns]
+    CNTRY_NAME  ...                                           geometry
+100     Mexico  ...  POLYGON ((-92.17835 14.80476, -92.17826 14.804...
+
+[1 rows x 6 columns]
+Rank:  1 484001008 1996_5
+Rank:  3 484005010 1995_2
+   CNTRY_NAME  ...                                           geometry
+28     Mexico  ...  POLYGON ((-101.34880 27.06407, -101.35037 27.0...
+
+[1 rows x 6 columns]
+  CNTRY_NAME  ...                                           geometry
+7     Mexico  ...  POLYGON ((-102.16213 22.34851, -102.16149 22.3...
+
+[1 rows x 6 columns]
+484005003  has  6  images available between  1995-5-1 and 1995-5-31
+484007055  has  0  images available between  1998-10-1 and 1998-10-31
+484020030  has  0  images available between  1996-7-1 and 1996-7-31
+484005016  has  2  images available between  1996-3-1 and 1996-3-31
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484020167  has  0  images available between  1995-11-1 and 1995-11-30
+484020124  has  0  images available between  1996-7-1 and 1996-7-31
+484020070  has  0  images available between  1995-11-1 and 1995-11-30
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484020126  has  0  images available between  1995-11-1 and 1995-11-30
+484020012  has  0  images available between  1995-11-1 and 1995-11-30
+484020153  has  0  images available between  1995-11-1 and 1995-11-30
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484020090  has  2  images available between  1995-4-1 and 1995-4-30
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484020148  has  0  images available between  1995-11-1 and 1995-11-30
+484020113  has  0  images available between  1995-11-1 and 1995-11-30
+484020154  has  0  images available between  1995-11-1 and 1995-11-30
+484020061  has  0  images available between  1995-11-1 and 1995-11-30
+484020168  has  0  images available between  1995-11-1 and 1995-11-30
+484020059  has  0  images available between  1995-11-1 and 1995-11-30
+484020130  has  0  images available between  1996-7-1 and 1996-7-31
+484020074  has  0  images available between  1995-11-1 and 1995-11-30
+45 120
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+34 120
+RANK:  34   ALL DATES:  ['484020170']
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484020075  has  0  images available between  1996-7-1 and 1996-7-31
+RANK:  35   ALL DATES:  ['484020201']
+RANK:  36   ALL DATES:  ['484020208']
+484007101  has  0  images available between  1998-10-1 and 1998-10-31
+RANK:  37   ALL DATES:  ['484020210']
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484020114  has  0  images available between  1995-11-1 and 1995-11-30
+RANK:  38   ALL DATES:  ['484020224']
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484020117  has  0  images available between  1995-11-1 and 1995-11-30
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+RANK:  39   ALL DATES:  ['484020235']
+484007087  has  0  images available between  1998-10-1 and 1998-10-31
+484020071  has  0  images available between  1995-11-1 and 1995-11-30
+484020079  has  0  images available between  1996-7-1 and 1996-7-31
+RANK:  40   ALL DATES:  ['484020247']
+RANK:  41   ALL DATES:  ['484020252']
+484020095  has  0  images available between  1995-11-1 and 1995-11-30
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+RANK:  42   ALL DATES:  ['484020253']
+RANK:  43   ALL DATES:  ['484020262']
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+RANK:  44   ALL DATES:  ['484020278']
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+RANK:  45   ALL DATES:  ['484020281']
+RANK:  46   ALL DATES:  ['484020284']
+484020146  has  0  images available between  1995-11-1 and 1995-11-30
+484020085  has  0  images available between  1995-11-1 and 1995-11-30
+RANK:  47   ALL DATES:  ['484020288']
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+RANK:  48   ALL DATES:  ['484020290']
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+RANK:  49   ALL DATES:  ['484020304']
+RANK:  50   ALL DATES:  ['484020305']
+RANK:  51   ALL DATES:  ['484020307']
+RANK:  52   ALL DATES:  ['484020311']
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+RANK:  53   ALL DATES:  ['484020313']
+RANK:  54   ALL DATES:  ['484020317']
+484020159  has  0  images available between  1995-11-1 and 1995-11-30
+RANK:  55   ALL DATES:  ['484020318']
+RANK:  56   ALL DATES:  ['484020323']
+484001008  has  6  images available between  1996-5-1 and 1996-5-31
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+RANK:  57   ALL DATES:  ['484020343']
+484005010  has  1  images available between  1995-2-1 and 1995-2-28
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+RANK:  58   ALL DATES:  ['484020346']
+484007035  has  0  images available between  1998-10-1 and 1998-10-31
+RANK:  59   ALL DATES:  ['484020350']
+RANK:  60   ALL DATES:  ['484020352']
+RANK:  61   ALL DATES:  ['484020360']
+RANK:  62   ALL DATES:  ['484020361']
+RANK:  63   ALL DATES:  ['484020365']
+RANK:  64   ALL DATES:  ['484020366']
+RANK:  65   ALL DATES:  ['484020383']
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+RANK:  66   ALL DATES:  ['484020390']
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+RANK:  67   ALL DATES:  ['484020400']
+RANK:  68   ALL DATES:  ['484020401']
+RANK:  69   ALL DATES:  ['484020413']
+RANK:  70   ALL DATES:  ['484020420']
+RANK:  71   ALL DATES:  ['484020423']
+RANK:  72   ALL DATES:  ['484020427']
+RANK:  73   ALL DATES:  ['484020438']
+RANK:  74   ALL DATES:  ['484020440']
+RANK:  75   ALL DATES:  ['484020452']
+RANK:  76   ALL DATES:  ['484020483']
+RANK:  77   ALL DATES:  ['484020493']
+RANK:  78   ALL DATES:  ['484020505']
+RANK:  79   ALL DATES:  ['484020507']
+RANK:  80   ALL DATES:  ['484020510']
+RANK:  81   ALL DATES:  ['484020530']
+RANK:  82   ALL DATES:  ['484020531']
+RANK:  83   ALL DATES:  ['484020535']
+RANK:  84   ALL DATES:  ['484020559']
+Rank:  34 484020170 1995_11
+RANK:  85   ALL DATES:  ['484026005']
+Rank:  35 484020201 1995_11
+     CNTRY_NAME  ...                                           geometry
+1104     Mexico  ...  POLYGON ((-96.30741 16.44789, -96.30740 16.447...
+
+[1 rows x 6 columns]
+RANK:  86   ALL DATES:  ['484028020']
+     CNTRY_NAME  ...                                           geometry
+1135     Mexico  ...  POLYGON ((-97.08743 16.26699, -97.07859 16.270...
+
+[1 rows x 6 columns]
+RANK:  87   ALL DATES:  ['484028025']
+RANK:  88   ALL DATES:  ['484028028']
+RANK:  89   ALL DATES:  ['484028031']
+RANK:  90   ALL DATES:  ['484028034']
+RANK:  91   ALL DATES:  ['484028036']
+RANK:  92   ALL DATES:  ['484029001']
+RANK:  93   ALL DATES:  ['484029002']
+RANK:  94   ALL DATES:  ['484029003']
+RANK:  95   ALL DATES:  ['484029004']
+RANK:  96   ALL DATES:  ['484029005']
+RANK:  97   ALL DATES:  ['484029006']
+RANK:  98   ALL DATES:  ['484029007']
+RANK:  99   ALL DATES:  ['484029008']
+RANK:  100   ALL DATES:  ['484029009']
+RANK:  101   ALL DATES:  ['484029010']
+RANK:  102   ALL DATES:  ['484029011']
+RANK:  103   ALL DATES:  ['484029012']
+RANK:  104   ALL DATES:  ['484029013']
+RANK:  105   ALL DATES:  ['484029014']
+RANK:  106   ALL DATES:  ['484029015']
+Rank:  37 484020210 1995_11
+RANK:  107   ALL DATES:  ['484029016']
+RANK:  108   ALL DATES:  ['484029017']
+RANK:  109   ALL DATES:  ['484029018']
+     CNTRY_NAME  ...                                           geometry
+1144     Mexico  ...  POLYGON ((-96.25011 16.18671, -96.21735 16.185...
+
+[1 rows x 6 columns]
+RANK:  110   ALL DATES:  ['484029019']
+RANK:  111   ALL DATES:  ['484029020']
+RANK:  112   ALL DATES:  ['484029021']
+RANK:  113   ALL DATES:  ['484029022']
+RANK:  114   ALL DATES:  ['484029023']
+Rank:  43 484020262 1995_11
+Rank:  45 484020281 1996_7
+RANK:  115   ALL DATES:  ['484029024']
+Rank:  47 484020288 1995_11
+     CNTRY_NAME  ...                                           geometry
+1215     Mexico  ...  POLYGON ((-95.50073 16.31549, -95.50060 16.315...
+
+[1 rows x 6 columns]
+RANK:  116   ALL DATES:  ['484029025']
+     CNTRY_NAME  ...                                           geometry
+1196     Mexico  ...  POLYGON ((-96.65790 16.22704, -96.65774 16.226...
+
+[1 rows x 6 columns]
+RANK:  117   ALL DATES:  ['484029026']
+     CNTRY_NAME  ...                                           geometry
+1222     Mexico  ...  POLYGON ((-96.73156 16.45862, -96.73156 16.458...
+
+[1 rows x 6 columns]
+Rank:  36 484020208 1995_11
+RANK:  118   ALL DATES:  ['484029027']
+RANK:  0   ALL DATES:  ['484001007']
+RANK:  119   ALL DATES:  ['484029028']
+     CNTRY_NAME  ...                                           geometry
+1142     Mexico  ...  POLYGON ((-96.29643 16.30195, -96.29665 16.301...
+
+[1 rows x 6 columns]
+Rank:  39 484020235 1995_11
+Rank:  38 484020224 1995_11
+     CNTRY_NAME  ...                                           geometry
+1169     Mexico  ...  POLYGON ((-96.36737 16.04328, -96.37367 16.044...
+
+[1 rows x 6 columns]
+Rank:  41 484020252 1995_11
+     CNTRY_NAME  ...                                           geometry
+1158     Mexico  ...  POLYGON ((-97.83448 16.38874, -97.83549 16.388...
+
+[1 rows x 6 columns]
+Rank:  42 484020253 1995_11
+     CNTRY_NAME  ...                                           geometry
+1186     Mexico  ...  POLYGON ((-96.36737 16.04328, -96.36604 16.042...
+
+[1 rows x 6 columns]
+Rank:  56 484020323 1995_11
+Rank:  40 484020247 1996_7
+     CNTRY_NAME  ...                                           geometry
+1187     Mexico  ...  POLYGON ((-96.48585 16.18526, -96.48483 16.184...
+
+[1 rows x 6 columns]
+Rank:  44 484020278 1995_11
+     CNTRY_NAME  ...                                           geometry
+1257     Mexico  ...  POLYGON ((-96.26309 15.91871, -96.26304 15.918...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1181     Mexico  ...  POLYGON ((-95.11669 16.23478, -95.10334 16.233...
+
+[1 rows x 6 columns]
+Rank:  58 484020346 1995_11
+Rank:  46 484020284 1995_11
+     CNTRY_NAME  ...                                           geometry
+1212     Mexico  ...  POLYGON ((-96.43331 16.11262, -96.43278 16.112...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1218     Mexico  ...  POLYGON ((-98.11887 16.49531, -98.11826 16.495...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1280     Mexico  ...  POLYGON ((-96.38973 16.24911, -96.38961 16.248...
+
+[1 rows x 6 columns]
+Rank:  48 484020290 1995_11
+Rank:  49 484020304 1996_7
+Rank:  50 484020305 1995_11
+     CNTRY_NAME  ...                                           geometry
+1224     Mexico  ...  POLYGON ((-96.69542 16.25258, -96.69552 16.252...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1238     Mexico  ...  POLYGON ((-95.16985 16.49996, -95.16880 16.499...
+
+[1 rows x 6 columns]
+484020170  has  0  images available between  1995-11-1 and 1995-11-30
+Rank:  51 484020307 1996_7
+Rank:  52 484020311 1995_11
+     CNTRY_NAME  ...                                           geometry
+1239     Mexico  ...  POLYGON ((-96.41675 16.03182, -96.41645 16.031...
+
+[1 rows x 6 columns]
+Rank:  53 484020313 1995_11
+     CNTRY_NAME  ...                                           geometry
+1241     Mexico  ...  POLYGON ((-95.12351 16.26492, -95.12108 16.261...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1245     Mexico  ...  POLYGON ((-98.04300 16.51418, -98.04239 16.513...
+
+[1 rows x 6 columns]
+Rank:  55 484020318 1995_11
+Rank:  54 484020317 1995_11
+     CNTRY_NAME  ...                                           geometry
+1247     Mexico  ...  POLYGON ((-97.08743 16.26699, -97.08828 16.266...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1252     Mexico  ...  POLYGON ((-96.29643 16.30195, -96.29605 16.301...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1251     Mexico  ...  POLYGON ((-96.90029 15.98947, -96.89717 15.977...
+
+[1 rows x 6 columns]
+Rank:  57 484020343 1995_11
+484020201  has  0  images available between  1995-11-1 and 1995-11-30
+Rank:  59 484020350 1995_11
+     CNTRY_NAME  ...                                           geometry
+1277     Mexico  ...  POLYGON ((-96.84527 16.02206, -96.84534 16.021...
+
+[1 rows x 6 columns]
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+Rank:  73 484020438 1995_11
+     CNTRY_NAME  ...                                           geometry
+1284     Mexico  ...  POLYGON ((-96.69701 16.40177, -96.69738 16.401...
+
+[1 rows x 6 columns]
+Rank:  75 484020452 1995_12
+Rank:  60 484020352 1995_11
+Rank:  62 484020361 1995_11
+     CNTRY_NAME  ...                                           geometry
+1372     Mexico  ...  POLYGON ((-96.70230 15.84125, -96.70299 15.841...
+
+[1 rows x 6 columns]
+Rank:  61 484020360 1995_11
+     CNTRY_NAME  ...                                           geometry
+1386     Mexico  ...  POLYGON ((-95.51370 15.96370, -95.51483 15.963...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1286     Mexico  ...  POLYGON ((-96.71443 16.37185, -96.71384 16.370...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1295     Mexico  ...  POLYGON ((-96.67610 16.29100, -96.67478 16.292...
+
+[1 rows x 6 columns]
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+     CNTRY_NAME  ...                                           geometry
+1294     Mexico  ...  POLYGON ((-96.21011 16.27922, -96.21197 16.280...
+
+[1 rows x 6 columns]
+Rank:  64 484020366 1995_11
+Rank:  63 484020365 1995_11
+Rank:  66 484020390 1995_11
+     CNTRY_NAME  ...                                           geometry
+1300     Mexico  ...  POLYGON ((-97.79645 16.35775, -97.79559 16.355...
+
+[1 rows x 6 columns]
+Rank:  65 484020383 1995_11
+     CNTRY_NAME  ...                                           geometry
+1299     Mexico  ...  POLYGON ((-96.65035 16.08577, -96.64998 16.085...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1324     Mexico  ...  POLYGON ((-96.58511 16.19081, -96.58511 16.190...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1317     Mexico  ...  POLYGON ((-96.65317 16.37147, -96.65168 16.371...
+
+[1 rows x 6 columns]
+Rank:  68 484020401 1995_11
+Rank:  67 484020400 1995_11
+Rank:  70 484020420 1996_7
+Rank:  69 484020413 1995_11
+     CNTRY_NAME  ...                                           geometry
+1335     Mexico  ...  POLYGON ((-98.33599 16.48112, -98.33179 16.473...
+
+[1 rows x 6 columns]
+Rank:  71 484020423 1995_11
+     CNTRY_NAME  ...                                           geometry
+1334     Mexico  ...  POLYGON ((-96.82876 15.96094, -96.82857 15.960...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1354     Mexico  ...  POLYGON ((-95.25608 16.46662, -95.24277 16.457...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1347     Mexico  ...  POLYGON ((-97.95116 16.31366, -97.94957 16.313...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1357     Mexico  ...  POLYGON ((-96.29411 16.12455, -96.30591 16.100...
+
+[1 rows x 6 columns]
+Rank:  77 484020493 1995_11
+Rank:  72 484020427 1995_11
+Rank:  76 484020483 1995_11
+     CNTRY_NAME  ...                                           geometry
+1427     Mexico  ...  POLYGON ((-96.16699 16.03468, -96.16589 16.034...
+
+[1 rows x 6 columns]
+484020262  has  0  images available between  1995-11-1 and 1995-11-30
+484020210  has  0  images available between  1995-11-1 and 1995-11-30
+     CNTRY_NAME  ...                                           geometry
+1361     Mexico  ...  POLYGON ((-96.01830 16.26266, -96.01771 16.261...
+
+[1 rows x 6 columns]
+Rank:  79 484020507 1995_11
+Rank:  90 484028034 1996_4
+Rank:  74 484020440 1996_7
+484020288  has  0  images available between  1995-11-1 and 1995-11-30
+     CNTRY_NAME  ...                                           geometry
+1417     Mexico  ...  POLYGON ((-98.39953 16.38051, -98.39953 16.380...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1441     Mexico  ...  POLYGON ((-96.58278 15.87147, -96.58274 15.871...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1926     Mexico  ...  POLYGON ((-98.70278 24.74352, -98.66983 24.721...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1374     Mexico  ...  POLYGON ((-95.07345 16.33159, -95.07461 16.332...
+
+[1 rows x 6 columns]
+Rank:  78 484020505 1995_11
+Rank:  92 484029001 1996_4
+Rank:  81 484020530 1995_11
+Rank:  83 484020535 1995_11
+     CNTRY_NAME  ...                                           geometry
+1439     Mexico  ...  POLYGON ((-98.36130 16.42192, -98.36142 16.421...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1464     Mexico  ...  POLYGON ((-96.53488 16.25137, -96.53511 16.251...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1934     Mexico  ...  MULTIPOLYGON (((-98.20220 19.37653, -98.20222 ...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1469     Mexico  ...  POLYGON ((-96.52112 16.35645, -96.52069 16.355...
+
+[1 rows x 6 columns]
+Rank:  80 484020510 1995_11
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+Rank:  82 484020531 1995_11
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+     CNTRY_NAME  ...                                           geometry
+1444     Mexico  ...  POLYGON ((-96.26835 16.21375, -96.26812 16.213...
+
+[1 rows x 6 columns]
+Rank:  84 484020559 1995_11
+     CNTRY_NAME  ...                                           geometry
+1465     Mexico  ...  POLYGON ((-96.78620 16.39853, -96.78650 16.397...
+
+[1 rows x 6 columns]
+Rank:  85 484026005 1996_1
+Rank:  0 484001007 1995_1
+484020281  has  0  images available between  1996-7-1 and 1996-7-31
+     CNTRY_NAME  ...                                           geometry
+1493     Mexico  ...  POLYGON ((-96.77174 16.48054, -96.77103 16.480...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1811     Mexico  ...  POLYGON ((-109.27180 28.86826, -109.27181 28.8...
+
+[1 rows x 6 columns]
+  CNTRY_NAME  ...                                           geometry
+6     Mexico  ...  POLYGON ((-102.45611 22.32323, -102.45584 22.3...
+
+[1 rows x 6 columns]
+Rank:  86 484028020 1995_10
+484020208  has  0  images available between  1995-11-1 and 1995-11-30
+Rank:  88 484028028 1996_4
+Rank:  87 484028025 1995_11
+Rank:  101 484029010 1996_4
+     CNTRY_NAME  ...                                           geometry
+1912     Mexico  ...  POLYGON ((-99.40490 24.73509, -99.40676 24.729...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1920     Mexico  ...  POLYGON ((-99.11463 22.40673, -99.11747 22.406...
+
+[1 rows x 6 columns]
+Rank:  89 484028031 1995_10
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+Rank:  103 484029012 1996_4
+     CNTRY_NAME  ...                                           geometry
+1943     Mexico  ...  POLYGON ((-98.18440 19.32631, -98.18428 19.326...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1923     Mexico  ...  POLYGON ((-99.47269 23.07825, -99.47248 23.076...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1917     Mexico  ...  POLYGON ((-98.94776 26.37059, -98.94758 26.370...
+
+[1 rows x 6 columns]
+Rank:  94 484029003 1996_4
+Rank:  91 484028036 1996_4
+Rank:  93 484029002 1996_4
+484020235  has  0  images available between  1995-11-1 and 1995-11-30
+     CNTRY_NAME  ...                                           geometry
+1928     Mexico  ...  POLYGON ((-97.85567 22.32190, -97.85565 22.321...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1936     Mexico  ...  POLYGON ((-98.10134 19.51996, -98.10903 19.517...
+
+[1 rows x 6 columns]
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+     CNTRY_NAME  ...                                           geometry
+1945     Mexico  ...  POLYGON ((-98.50153 19.49915, -98.50102 19.499...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1935     Mexico  ...  POLYGON ((-98.18411 19.36626, -98.18409 19.366...
+
+[1 rows x 6 columns]
+484020318  has  0  images available between  1995-11-1 and 1995-11-30
+Rank:  108 484029017 1996_4
+Rank:  96 484029005 1996_4
+Rank:  97 484029006 1996_4
+484020323  has  0  images available between  1995-11-1 and 1995-11-30
+Rank:  95 484029004 1996_1
+     CNTRY_NAME  ...                                           geometry
+1950     Mexico  ...  POLYGON ((-98.12878 19.21164, -98.13220 19.205...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1938     Mexico  ...  POLYGON ((-98.05902 19.43869, -98.05917 19.438...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1939     Mexico  ...  POLYGON ((-98.53558 19.63442, -98.53547 19.634...
+
+[1 rows x 6 columns]
+Rank:  110 484029019 1996_4
+Rank:  99 484029008 1996_1
+     CNTRY_NAME  ...                                           geometry
+1937     Mexico  ...  POLYGON ((-97.70397 19.39296, -97.70396 19.392...
+
+[1 rows x 6 columns]
+Rank:  98 484029007 1996_1
+     CNTRY_NAME  ...                                           geometry
+1952     Mexico  ...  POLYGON ((-98.40663 19.31526, -98.40631 19.315...
+
+[1 rows x 6 columns]
+Rank:  112 484029021 1996_4
+     CNTRY_NAME  ...                                           geometry
+1941     Mexico  ...  POLYGON ((-97.70987 19.36831, -97.70964 19.368...
+
+[1 rows x 6 columns]
+484020278  has  0  images available between  1995-11-1 and 1995-11-30
+Rank:  100 484029009 1996_4
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484020247  has  0  images available between  1996-7-1 and 1996-7-31
+484020224  has  0  images available between  1995-11-1 and 1995-11-30
+     CNTRY_NAME  ...                                           geometry
+1940     Mexico  ...  POLYGON ((-97.66421 19.36511, -97.66374 19.364...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1954     Mexico  ...  POLYGON ((-98.44814 19.53922, -98.44846 19.538...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1942     Mexico  ...  POLYGON ((-98.06163 19.35944, -98.06162 19.359...
+
+[1 rows x 6 columns]
+484020253  has  0  images available between  1995-11-1 and 1995-11-30
+Rank:  105 484029014 1996_4
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+Rank:  116 484029025 1995_6
+Rank:  102 484029011 1996_4
+484020252  has  0  images available between  1995-11-1 and 1995-11-30
+     CNTRY_NAME  ...                                           geometry
+1947     Mexico  ...  POLYGON ((-98.37474 19.57789, -98.37440 19.577...
+
+[1 rows x 6 columns]
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+     CNTRY_NAME  ...                                           geometry
+1958     Mexico  ...  POLYGON ((-98.10032 19.16337, -98.10027 19.163...
+
+[1 rows x 6 columns]
+Rank:  107 484029016 1996_1
+     CNTRY_NAME  ...                                           geometry
+1944     Mexico  ...  POLYGON ((-98.18144 19.48939, -98.18142 19.489...
+
+[1 rows x 6 columns]
+484020290  has  0  images available between  1995-11-1 and 1995-11-30
+Rank:  104 484029013 1996_1
+Rank:  106 484029015 1996_4
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+     CNTRY_NAME  ...                                           geometry
+1949     Mexico  ...  POLYGON ((-97.87029 19.27059, -97.87028 19.270...
+
+[1 rows x 6 columns]
+484020346  has  0  images available between  1995-11-1 and 1995-11-30
+484020307  has  0  images available between  1996-7-1 and 1996-7-31
+     CNTRY_NAME  ...                                           geometry
+1948     Mexico  ...  POLYGON ((-98.36660 19.42159, -98.36677 19.421...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1946     Mexico  ...  POLYGON ((-97.88877 19.44917, -97.88860 19.448...
+
+[1 rows x 6 columns]
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+Rank:  109 484029018 1996_4
+484020317  has  0  images available between  1995-11-1 and 1995-11-30
+484020304  has  0  images available between  1996-7-1 and 1996-7-31
+484020284  has  0  images available between  1995-11-1 and 1995-11-30
+484020423  has  0  images available between  1995-11-1 and 1995-11-30
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+Rank:  114 484029023 1996_4
+     CNTRY_NAME  ...                                           geometry
+1951     Mexico  ...  POLYGON ((-98.15343 19.33844, -98.15326 19.338...
+
+[1 rows x 6 columns]
+Rank:  111 484029020 1996_4
+484020311  has  0  images available between  1995-11-1 and 1995-11-30
+     CNTRY_NAME  ...                                           geometry
+1956     Mexico  ...  POLYGON ((-98.32019 19.29210, -98.31983 19.291...
+
+[1 rows x 6 columns]
+Rank:  113 484029022 1996_4
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484020305  has  0  images available between  1995-11-1 and 1995-11-30
+484020438  has  0  images available between  1995-11-1 and 1995-11-30
+484020313  has  0  images available between  1995-11-1 and 1995-11-30
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+     CNTRY_NAME  ...                                           geometry
+1953     Mexico  ...  MULTIPOLYGON (((-98.50583 19.49443, -98.50578 ...
+
+[1 rows x 6 columns]
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+Rank:  118 484029027 1995_6
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484020452  has  1  images available between  1995-12-1 and 1995-12-31
+     CNTRY_NAME  ...                                           geometry
+1955     Mexico  ...  POLYGON ((-98.18885 19.23097, -98.18880 19.230...
+
+[1 rows x 6 columns]
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+     CNTRY_NAME  ...                                           geometry
+1960     Mexico  ...  POLYGON ((-98.15494 19.16809, -98.15496 19.168...
+
+[1 rows x 6 columns]
+Rank:  115 484029024 1996_4
+484020390  has  0  images available between  1995-11-1 and 1995-11-30
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  'MultiPolygon' object has no attribute 'exterior'
+'MultiPolygon' object has no attribute 'exterior'
+Rank:  117 484029026 1995_6
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484020361  has  0  images available between  1995-11-1 and 1995-11-30
+     CNTRY_NAME  ...                                           geometry
+1957     Mexico  ...  POLYGON ((-98.25270 19.35664, -98.25267 19.356...
+
+[1 rows x 6 columns]
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+Rank:  119 484029028 1995_6
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+     CNTRY_NAME  ...                                           geometry
+1959     Mexico  ...  POLYGON ((-98.12249 19.36312, -98.12244 19.362...
+
+[1 rows x 6 columns]
+     CNTRY_NAME  ...                                           geometry
+1961     Mexico  ...  POLYGON ((-98.03384 19.23173, -98.03174 19.230...
+
+[1 rows x 6 columns]
+484028034  has  4  images available between  1996-4-1 and 1996-4-30
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484020343  has  0  images available between  1995-11-1 and 1995-11-30
+484020352  has  0  images available between  1995-11-1 and 1995-11-30
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484020420  has  0  images available between  1996-7-1 and 1996-7-31
+484020366  has  0  images available between  1995-11-1 and 1995-11-30
+484020400  has  0  images available between  1995-11-1 and 1995-11-30
+484020350  has  0  images available between  1995-11-1 and 1995-11-30
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484020360  has  0  images available between  1995-11-1 and 1995-11-30
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484020383  has  0  images available between  1995-11-1 and 1995-11-30
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484020413  has  0  images available between  1995-11-1 and 1995-11-30
+484026005  has  0  images available between  1996-1-1 and 1996-1-31
+484020510  has  0  images available between  1995-11-1 and 1995-11-30
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484020427  has  0  images available between  1995-11-1 and 1995-11-30
+484020401  has  0  images available between  1995-11-1 and 1995-11-30
+484020440  has  0  images available between  1996-7-1 and 1996-7-31
+484020365  has  0  images available between  1995-11-1 and 1995-11-30
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484020505  has  0  images available between  1995-11-1 and 1995-11-30
+484020493  has  0  images available between  1995-11-1 and 1995-11-30
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484020559  has  0  images available between  1995-11-1 and 1995-11-30
+484020483  has  0  images available between  1995-11-1 and 1995-11-30
+484001007  has  4  images available between  1995-1-1 and 1995-1-31
+484020535  has  0  images available between  1995-11-1 and 1995-11-30
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484020507  has  0  images available between  1995-11-1 and 1995-11-30
+484020530  has  0  images available between  1995-11-1 and 1995-11-30
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484028036  has  4  images available between  1996-4-1 and 1996-4-30
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484028028  has  6  images available between  1996-4-1 and 1996-4-30
+484020531  has  0  images available between  1995-11-1 and 1995-11-30
+484029019  has  4  images available between  1996-4-1 and 1996-4-30
+Image  0  of  1 ---- Month: May
+484029017  has  4  images available between  1996-4-1 and 1996-4-30
+484029008  has  0  images available between  1996-1-1 and 1996-1-31
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484029007  has  0  images available between  1996-1-1 and 1996-1-31
+484029002  has  6  images available between  1996-4-1 and 1996-4-30
+484029009  has  6  images available between  1996-4-1 and 1996-4-30
+484029003  has  6  images available between  1996-4-1 and 1996-4-30
+484029021  has  4  images available between  1996-4-1 and 1996-4-30
+484029010  has  6  images available between  1996-4-1 and 1996-4-30
+484029023  has  4  images available between  1996-4-1 and 1996-4-30
+484028031  has  0  images available between  1995-10-1 and 1995-10-31
+484029006  has  4  images available between  1996-4-1 and 1996-4-30
+484029011  has  8  images available between  1996-4-1 and 1996-4-30
+484029012  has  4  images available between  1996-4-1 and 1996-4-30
+484028020  has  0  images available between  1995-10-1 and 1995-10-31
+484029005  has  6  images available between  1996-4-1 and 1996-4-30
+484029025  has  4  images available between  1995-6-1 and 1995-6-30
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484029004  has  0  images available between  1996-1-1 and 1996-1-31
+484029018  has  6  images available between  1996-4-1 and 1996-4-30
+484028025  has  0  images available between  1995-11-1 and 1995-11-30
+484029016  has  0  images available between  1996-1-1 and 1996-1-31
+484029027  has  4  images available between  1995-6-1 and 1995-6-30
+484029026  has  6  images available between  1995-6-1 and 1995-6-30
+E:  'MultiPolygon' object has no attribute 'exterior'
+'MultiPolygon' object has no attribute 'exterior'
+484029028  has  4  images available between  1995-6-1 and 1995-6-30
+484029014  has  6  images available between  1996-4-1 and 1996-4-30
+484029013  has  0  images available between  1996-1-1 and 1996-1-31
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484029015  has  6  images available between  1996-4-1 and 1996-4-30
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+484029024  has  6  images available between  1996-4-1 and 1996-4-30
+484029022  has  4  images available between  1996-4-1 and 1996-4-30
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+E:  Expression evaluates to an image with no bands.
+Expression evaluates to an image with no bands.
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
+Image  0  of  1 ---- Month: May
